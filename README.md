@@ -4,7 +4,7 @@
 
 1. Склонируйте репозиторий и перейдите в папку проекта.
    ``` bash
-   git clone url
+   git clone https://github.com/dsviridenko/exam_IOT.git
    ```
  
 2. Откройте терминал и запустите виртуальное окружение
