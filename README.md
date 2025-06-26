@@ -61,7 +61,7 @@
    ```
 3. Установите зависимости
    ``` bash
-   pip install -r requerements
+   pip install -r requirements.txt
    ```
 4. Запустите приложение
    ``` bash 
